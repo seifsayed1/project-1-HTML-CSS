@@ -1,2 +1,2 @@
-# project-1-HTML-CSS
+# project_1 HTML+CSS
 my first project
