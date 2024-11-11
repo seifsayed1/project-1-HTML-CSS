@@ -1,2 +1,2 @@
 # project_1 HTML+CSS
-simple website
+Responsive and simple website with HTML and CSS
